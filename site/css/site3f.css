@@ -1,0 +1,8 @@
+.shadowed-text {
+	text-shadow: 0 0 5px black;
+}
+
+#map {
+	height: 358px;
+}
+
